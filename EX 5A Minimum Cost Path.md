@@ -18,8 +18,8 @@ To write a Python program using A Naive recursive implementation of Minimum Cost
 /*
 A program to implement to find the Minimum Cost Path Problem using a  Naive recursive Approach.
 
-Developed by: ASHWIN KUMAR S
-Register Number: 212222240013
+Developed by:  LOKESH RAHUL V V
+Register Number: 212222100024
 */
 ```
 ```
